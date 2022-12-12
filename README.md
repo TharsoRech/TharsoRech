@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TharsoRech
-- 👀 I’m interested in ... C#,SQL,APS.NET,API REST,HTML CSS,Angulat,React,React Native
-- 🌱 I’m currently learning ...Angular,React
-- 💞️ I’m looking to collaborate on ... New projects and solutions for people
+- 👀 I’m interested in ... C#,SQL,APS.NET,API REST,HTML CSS,Angular,React,React Native
 - 📫 Tharso_rech@hotmail.com
 
 <!---
