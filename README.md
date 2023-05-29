@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TharsoRech
-- 👀 I’m interested in ... C#,SQL,APS.NET,API REST,HTML CSS,Angular,React,React Native
+- 👀 I’m interested in ... C#,SQL,APS.NET,API REST,HTML CSS,Angular,React
 - 📫 Tharso_rech@hotmail.com
 
 <!---
